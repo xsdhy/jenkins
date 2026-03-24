@@ -8,7 +8,7 @@ on:
 
 env:
   IMAGE_NAME: xsdhy/jenkins
-  IMAGE_TAG_NAME: lts-jdk17
+  IMAGE_TAG_NAME: lts-jdk25
 
 jobs:
   docker:
